@@ -1,0 +1,7 @@
+{
+  "name": "TradeMate",
+  "description": "A mobile-first receipt tracking app for tradespeople using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
